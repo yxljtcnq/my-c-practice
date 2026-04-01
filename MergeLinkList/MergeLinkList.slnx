@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="MergeLinkList.vcxproj" Id="900d8687-ea37-483f-a69e-9157dd6ca87c" />
-</Solution>
