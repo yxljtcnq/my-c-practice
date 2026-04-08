@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RemoveDuplicateElementsFromASortedLinkedList.vcxproj" Id="cb01bddb-315c-468f-9644-cba3dced037d" />
+</Solution>
